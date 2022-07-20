@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer>
         <ul className='links'>
-          <li><a href="#">Home</a></li>
+          <li><a href="#header">Home</a></li>
           <li><a href="#about">About</a></li>
           <li><a href="#experience">Experience</a></li>
           <li><a href="#project">Project</a></li>
